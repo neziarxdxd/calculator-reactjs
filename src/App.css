@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  color: white;
+  padding: 25%;
+}
+
+
+.answer{
+  background-color:#1b0606;
+  font-size: 50pt;
+}
+.button {
+  display: block;
+
+  
+}
+
+button {  
+  margin:2px;
+  background-color: #87c8fd;
+  color: white;
+  width: 25%;
+  height: 70px;
+  font-size: 30px;
+  border:none;
+  border-radius: 12px
+}
+.title{
+  color:#87c8fd;
+  font-size:50pt;
+}
+
+
