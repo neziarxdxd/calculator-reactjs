@@ -5,6 +5,7 @@ buttonPress =(e) =>{
 } 
   render(){
       return(
+          //test
           <div className="button">
               <button name="C" onClick={this.buttonPress}>C</button>
               <button name="CE" onClick={this.buttonPress}>BSPACE</button>
